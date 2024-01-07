@@ -1,5 +1,7 @@
 # Resume Builder WebApp
 
+NOTE - If any files are not in the respective folder, please refer to the path in the code and rearrange the files accordingly. Every file has been uploaded.
+
 ## Overview
 
 This project is a comprehensive Resume Builder WebApp designed to simplify the process of creating professional resumes. Leveraging the power of ReactJS for the frontend, Python for the backend, and MySQL for database management, the web application offers a seamless and intuitive user experience.
