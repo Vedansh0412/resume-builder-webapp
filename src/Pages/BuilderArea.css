@@ -1,0 +1,44 @@
+/* media quires */
+@media only screen and (max-width: 1108px) {
+    #main-box {
+        flex-direction: row !important;
+    }
+}
+
+#theme-box-border {
+    height: fit-content;
+    max-width: 50%;
+    margin-left: 50%;
+    margin-top: auto;
+    margin-bottom: 7%;
+}
+
+.container {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-template-rows: auto;
+    gap: 10px;
+   }
+   
+   .first-div {
+    grid-column: 1;
+    grid-row: 1;
+    width: 100%;
+    margin: auto;
+   }
+   
+   .second-div {
+    grid-column: 2;
+    grid-row: 1;
+    width: 100%;
+    margin: 10 10 10 10;
+
+   }
+
+
+#spinner {
+    position: absolute !important;
+    top: 50vh;
+    left: 50vw;
+}
+
